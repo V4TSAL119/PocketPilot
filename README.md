@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![PocketPilot Logo](assets/images/pocketpilot_logo.png)
-
 ### **Calm, Minimal & Privacy-First Personal Finance for Android**
 *Track Expenses, Manage Monthly Bills & EMIs, and Keep Borrow & Lend Ledgers — 100% Offline.*
 
